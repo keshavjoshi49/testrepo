@@ -1,0 +1,3 @@
+module EcomStore {
+	requires okio;
+}
